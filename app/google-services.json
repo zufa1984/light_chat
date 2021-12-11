@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333115084427",
+    "project_id": "light-chat-4085f",
+    "storage_bucket": "light-chat-4085f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333115084427:android:927afcea799d832fe5ce8e",
+        "android_client_info": {
+          "package_name": "uz.eskishahar.app.lightchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333115084427-m1rp9vg5gi4g3bnie9vqvh9gcejbd5p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.eskishahar.app.lightchat",
+            "certificate_hash": "e5ed37b07a7f26a681d3e877fb0c79596e52eb2c"
+          }
+        },
+        {
+          "client_id": "333115084427-he3fp4ta3ftlum6ajka1p1d3nttd67he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJWnoSwsOiMXZFNeC53oU7QmGlMuHlW0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333115084427-he3fp4ta3ftlum6ajka1p1d3nttd67he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
